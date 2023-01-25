@@ -13,5 +13,5 @@ elif arg=="*":
 elif arg=="/":
     print(int(num1/num2))
 else:
-    print("invalid argunment")
+    print("error...  invalid argunment")
 
